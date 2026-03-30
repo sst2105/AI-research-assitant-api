@@ -12,12 +12,11 @@ A production - raady REST API that enables RAG - powered conversationaa querying
   
 ## Tech Stack 
 - **Backend:**  FastAPI, Python, Uvicorn
-- ""AI/LLM:** OpenAI API, LangChain
+- **AI/LLM:**   OpenAI API, LangChain
 - **Vector DB :**  ChromaDB (RAG Pipleline)
-- ** Data: **  Pandas, NumPY
-- ** Deployment: ** Docker, Google Cloud Run
-- **Other:** Pydantic, python-dotenv, GitHub Actions
-- 
+- **Data:**  Pandas, NumPY
+- **Deployment:** Docker, Google Cloud Run
+- **Other:**  Pydantic, python-dotenv, GitHub Actions
 ## API Endpoints 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
