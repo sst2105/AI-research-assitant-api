@@ -1,6 +1,6 @@
 ﻿# AI-research-assitant-api
 
-A production - raady REST API that enables RAG - powered conversations querying over any ingested topic using LLMs. 
+A production - ready REST API that enables RAG - powered conversations querying over any ingested topic using LLMs. 
 
 ## What it does 
 - Ingest any topic.
